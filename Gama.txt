@@ -1,3 +1,1 @@
-1
-2
-3
+After bug fixing, this is the new feature with minor alteration
